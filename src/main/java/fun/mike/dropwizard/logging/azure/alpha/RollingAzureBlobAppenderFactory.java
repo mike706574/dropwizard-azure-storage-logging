@@ -1,4 +1,4 @@
-package fun.mike.dropwizard.azure.logging.alpha;
+package fun.mike.dropwizard.logging.azure.alpha;
 
 import java.net.URISyntaxException;
 import java.security.InvalidKeyException;
